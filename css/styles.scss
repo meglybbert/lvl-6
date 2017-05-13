@@ -3,21 +3,26 @@
 
 html {
   box-sizing: border-box;
-  background:#ffc600;
   font-family:'helvetica neue';
   font-size: 20px;
   font-weight: 200;
 }
+
+body {
+  background-image: url(/img/city.jpg);
+}
+
 *, *:before, *:after {
   box-sizing: inherit;
 }
+
 input {
   width: 100%;
   padding:20px;
 }
 
 .search-form {
-  max-width:400px;
+  max-width:800px;
   margin:50px auto;
 }
 
@@ -66,6 +71,10 @@ input.search {
 
 span.population {
   font-size: 15px;
+}
+
+span.name {
+  width: 300px;
 }
 
 .hl {
