@@ -35,6 +35,12 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/docs": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/docs\/docs",
+		"oF": 0
+		},
 	"\/fonts\/icons.eot": {
 		"ft": 8192,
 		"oA": 2,
@@ -173,16 +179,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/img\/favicons\/safari-pinned-tab.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/docs\/img\/favicons\/safari-pinned-tab.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
 	"\/img\/menu.png": {
 		"ft": 32768,
 		"iS": 598,
@@ -202,7 +198,7 @@
 		},
 	"\/js\/jquery.js": {
 		"ft": 64,
-		"mi": 1,
+		"mi": 0,
 		"oA": 1,
 		"oAP": "\/docs\/js\/jquery.js",
 		"oF": 0,
@@ -211,7 +207,7 @@
 		},
 	"\/js\/scripts.js": {
 		"ft": 64,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "\/docs\/js\/scripts.js",
 		"oF": 0,
@@ -220,7 +216,7 @@
 		},
 	"\/js\/semantic.js": {
 		"ft": 64,
-		"mi": 1,
+		"mi": 0,
 		"oA": 1,
 		"oAP": "\/docs\/js\/semantic.js",
 		"oF": 0,
@@ -234,10 +230,10 @@
 	},
 "projectAttributes": {
 	"creationDate": 513040678,
-	"displayValue": "web-3-starter",
+	"displayValue": "lvl-6",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-dunnoGirl",
-	"lastBuiltDate": 515569579
+	"lastBuiltDate": 516401045
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -2011,7 +2007,7 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 1,
-		"minifyOutput": 1,
+		"minifyOutput": 0,
 		"syntaxCheckerStyle": 0,
 		"transpilerStyle": 0
 		},
